@@ -1,0 +1,61 @@
+imagine1,imagine2,imagine3,imagine4,gender,correct,time,primer,congruent,keyCorrect,keyPressed,trial,pictureCategory
+3,4,4,3,male,1,1680,ambient,0, , ,1,5
+3,4,4,3,male,1,1282,ambient,0,ArrowLeft,ArrowLeft,2,15
+3,4,4,3,male,1,1499,imagery,0,ArrowRight,ArrowRight,3,12
+3,4,4,3,male,1,1431,visual,0,ArrowUp,ArrowUp,4,6
+3,4,4,3,male,1,1044,ambient,0,ArrowUp,ArrowUp,5,17
+3,4,4,3,male,1,1254,visual,1,ArrowRight,ArrowRight,6,5
+3,4,4,3,male,1,855,imagery,0,ArrowUp,ArrowUp,7,13
+3,4,4,3,male,1,850,visual,1,ArrowUp,ArrowUp,8,8
+3,4,4,3,male,1,894,ambient,0, , ,9,8
+3,4,4,3,male,1,820,ambient,1, , ,10,4
+3,4,4,3,male,1,806,imagery,0, , ,11,19
+3,4,4,3,male,1,900,imagery,1,ArrowRight,ArrowRight,12,10
+3,4,4,3,male,1,1210,ambient,0,ArrowDown,ArrowDown,13,3
+3,4,4,3,male,1,680,ambient,1, , ,14,19
+3,4,4,3,male,1,789,visual,0,ArrowUp,ArrowUp,15,7
+3,4,4,3,male,1,1131,imagery,1,ArrowLeft,ArrowLeft,16,5
+3,4,4,3,male,1,715,visual,1,ArrowRight,ArrowRight,17,4
+3,4,4,3,male,1,1039,imagery,0,ArrowRight,ArrowRight,18,18
+3,4,4,3,male,1,1371,visual,0,ArrowDown,ArrowDown,19,2
+3,4,4,3,male,1,853,ambient,1,ArrowRight,ArrowRight,20,18
+3,4,4,3,male,1,760,ambient,1,ArrowLeft,ArrowLeft,21,10
+3,4,4,3,male,1,859,ambient,0,ArrowDown,ArrowDown,22,12
+3,4,4,3,male,1,1044,visual,0,ArrowLeft,ArrowLeft,23,18
+3,4,4,3,male,1,821,ambient,0,ArrowLeft,ArrowLeft,24,13
+3,4,4,3,male,1,653,visual,1,ArrowRight,ArrowRight,25,3
+3,4,4,3,male,1,1197,visual,0, , ,26,10
+3,4,4,3,male,0,780,ambient,0,ArrowUp, ,27,9
+3,4,4,3,male,1,917,visual,1,ArrowRight,ArrowRight,28,19
+3,4,4,3,male,1,782,imagery,0,ArrowRight,ArrowRight,29,6
+3,4,4,3,male,1,749,imagery,1,ArrowRight,ArrowRight,30,9
+3,4,4,3,male,1,636,imagery,0,ArrowLeft,ArrowLeft,31,7
+3,4,4,3,male,0,1059,visual,1,ArrowLeft,ArrowDown,32,14
+3,4,4,3,male,1,673,visual,1,ArrowRight,ArrowRight,33,17
+3,4,4,3,male,0,794,imagery,1,ArrowDown,ArrowUp,34,15
+3,4,4,3,male,1,1084,visual,0,ArrowDown,ArrowDown,35,1
+3,4,4,3,male,1,1516,imagery,1,ArrowRight,ArrowRight,36,2
+3,4,4,3,male,1,805,visual,0,ArrowLeft,ArrowLeft,37,9
+3,4,4,3,male,1,657,visual,1,ArrowLeft,ArrowLeft,38,13
+3,4,4,3,male,1,998,ambient,1,ArrowDown,ArrowDown,39,14
+3,4,4,3,male,1,829,visual,1,ArrowLeft,ArrowLeft,40,11
+3,4,4,3,male,1,778,imagery,0,ArrowDown,ArrowDown,41,8
+3,4,4,3,male,1,716,ambient,1,ArrowLeft,ArrowLeft,42,7
+3,4,4,3,male,1,1823,imagery,0,ArrowLeft,ArrowLeft,43,16
+3,4,4,3,male,1,1045,ambient,1,ArrowUp,ArrowUp,44,20
+3,4,4,3,male,0,934,ambient,1,ArrowRight,ArrowUp,45,2
+3,4,4,3,male,1,1026,visual,1,ArrowLeft,ArrowLeft,46,12
+3,4,4,3,male,1,987,imagery,1, , ,47,3
+3,4,4,3,male,1,1007,ambient,0,ArrowLeft,ArrowLeft,48,11
+3,4,4,3,male,1,1063,imagery,0,ArrowRight,ArrowRight,49,14
+3,4,4,3,male,1,1287,visual,0, , ,50,15
+3,4,4,3,male,1,1113,visual,0, , ,51,16
+3,4,4,3,male,1,1678,imagery,1,ArrowRight,ArrowRight,52,17
+3,4,4,3,male,1,985,visual,0, , ,53,20
+3,4,4,3,male,1,739,imagery,1,ArrowRight,ArrowRight,54,11
+3,4,4,3,male,1,848,ambient,1,ArrowRight,ArrowRight,55,1
+3,4,4,3,male,1,733,imagery,1, , ,56,1
+3,4,4,3,male,1,1744,ambient,1,ArrowDown,ArrowDown,57,6
+3,4,4,3,male,1,1663,ambient,0,ArrowLeft,ArrowLeft,58,16
+3,4,4,3,male,1,669,imagery,1,ArrowRight,ArrowRight,59,4
+3,4,4,3,male,1,1174,imagery,0,ArrowRight,ArrowRight,60,20
